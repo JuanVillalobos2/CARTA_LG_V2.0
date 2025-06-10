@@ -501,6 +501,6 @@ nav button:hover {
   padding: 5px;      /* Espaciado interno */
   border: 1px solid #ccc;
   border-radius: 6px;
-  margin-left: -20px;   /* Mueve hacia la derecha */
+  margin-left: -40px;   /* Mueve hacia la derecha */
   margin-top: -40px; 
 }
